@@ -3,7 +3,7 @@
 
 ## Language
 ![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white/)
-[![Tensorflow Badge](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white/)](https://github.com/tensorflow)
+[![Tensorflow Badge](https://aleen42.github.io/badges/src/tensorflow.svg)](https://github.com/tensorflow)
 ![Keras Badge](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white/)
 ![JAVA Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white/)
 
