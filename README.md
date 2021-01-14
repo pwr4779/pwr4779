@@ -1,5 +1,5 @@
 
-[![Wonro Park's github stats](https://github-readme-stats.vercel.app/api?username=pwr4779&count_private=true&show_icons=true)]
+![Wonro Park's github stats](https://github-readme-stats.vercel.app/api?username=pwr4779&count_private=true&show_icons=true)
 
 ## Language
 ![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white/)
