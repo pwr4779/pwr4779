@@ -1,8 +1,7 @@
 
 
 
-
-[![pwr4779's github stats](https://github-readme-stats.vercel.app/api?username=Wonro Park)](https://github.com/pwr4779/github-readme-stats)
+[![pwr4779's github stats](https://github-readme-stats.vercel.app/api?username=pwr4779&count_private=true)](https://github.com/pwr4779/github-readme-stats)
 
 ## Language
 [![Python Badge](<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>)]
