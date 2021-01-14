@@ -1,5 +1,6 @@
 
-[![pwr4779's github stats](https://github-readme-stats.vercel.app/api?username=pwr4779&count_private=true)](https://github.com/pwr4779/github-readme-stats)
+<p> <img src="https://github-readme-stats-pwr4779-deploy.vercel.app/api?username=pwr4779&count_private=true&show_icons=true" alt="pwr4779" /> </p>
+
 
 ## Language
 ![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white/)
