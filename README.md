@@ -9,7 +9,8 @@
 
 
 ## Contact, Site
-* 이력서(Resume)(https://www.notion.so/Wonro-2f2576b2b8ca47d183f2245844f43503)  
+* [이력서(Resume)](https://www.notion.so/Wonro-2f2576b2b8ca47d183f2245844f43503)
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://toitoitoi79.tistory.com/)](https://toitoitoi79.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonro-park-46b9071b9/)](https://www.linkedin.com/in/wonro-park-46b9071b9/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yolowonro@gmail.com)](mailto:yolowonro@gmail.com)
