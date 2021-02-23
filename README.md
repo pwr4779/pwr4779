@@ -7,6 +7,9 @@
 ![Keras Badge](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white/)
 ![JAVA Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white/)
 
+## Competition
+![AI야, 진짜 뉴스를 찾아줘!(본선 13위)](https://dacon.io/competitions/official/235658/overview/)
+![제 2회 컴퓨터 비전 학습 경진대회(참가중)](https://dacon.io/competitions/official/235697/overview/)
 
 ## Contact, Site
 
